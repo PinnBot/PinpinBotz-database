@@ -4,5 +4,5 @@
         "PASSWORD": "admin123",
         "BANNED": false,
         "BAN_REASON": null
-    },
+    }
 }
