@@ -1,7 +1,27 @@
 {
-    "ExpinzzGanteng": {
-        "PASSWORD": "admin123",
-        "BANNED": false,
-        "BAN_REASON": null
-    }
+  "user1": {
+    "PASSWORD": "pass123",
+    "BANNED": false,
+    "BAN_REASON": null
+  },
+  "user2": {
+    "PASSWORD": "secure456",
+    "BANNED": false,
+    "BAN_REASON": null
+  },
+  "user3": {
+    "PASSWORD": "mypassword",
+    "BANNED": false,
+    "BAN_REASON": null
+  },
+  "user4": {
+    "PASSWORD": "adminpass",
+    "BANNED": true,
+    "BAN_REASON": "Pelanggaran aturan"
+  },
+  "user5": {
+    "PASSWORD": "test789",
+    "BANNED": false,
+    "BAN_REASON": null
+  }
 }
