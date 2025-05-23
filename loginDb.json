@@ -15,15 +15,43 @@
       "ScriptV1": true,
       "ScriptV2": true,
       "ScriptV3": true,
-      "nomorakses": ['']
+      "nomorakses": [""]
     },
     "keamanan": {
       "pasword": "admin123",
       "pin": "9876"
     },
     "pemulihan": {
-      "pertanyaan": null
+      "pertanyaan": null,
       "jawaban": null
+    }
+  },
+
+  "user1": {
+    "userinfo": {
+      "username": "user1",
+      "OwnerName": "Dion",
+      "iduser": "240510",
+      "setatus": "user",
+      "bergabung": "2025-05-20"
+    },
+    "banned": {
+      "setatus": false,
+      "alasan": ""
+    },
+    "userakses": {
+      "ScriptV1": true,
+      "ScriptV2": false,
+      "ScriptV3": false,
+      "nomorakses": [""]
+    },
+    "keamanan": {
+      "password": "dion123",
+      "pin": "1234"
+    },
+    "pemulihan": {
+      "pertanyaan": "Nama hewan peliharaan pertama?",
+      "jawaban": "kucing"
     }
   }
 }
